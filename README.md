@@ -37,13 +37,13 @@ An end-to-end Explainable Machine Learning (XAI) benchmark pipeline evaluating s
 ![Correlation & Distribution](01.png)
 
 ### 2. Actual vs. Predicted Performance Fit
-![Actual vs Predicted](figures/fig3_actual_vs_predicted.png)
+![Actual vs Predicted](03.png)
 
 ### 3. Residual Error Diagnostics & Homoscedasticity
-![Residual Diagnostics](figures/fig4_residual_diagnostics.png)
+![Residual Diagnostics](02.png)
 
 ### 4. Feature Coefficients & Explainability (XAI)
-![Feature Importance](figures/fig5_feature_importance.png)
+![Feature Importance](07.png)
 
 ---
 
