@@ -34,7 +34,7 @@ An end-to-end Explainable Machine Learning (XAI) benchmark pipeline evaluating s
 ## 📈 Visualizations & Diagnostics
 
 ### 1. Feature Correlation & Target Distribution
-![Correlation & Distribution](figures/fig1_eda_distribution_correlation.png)
+![Correlation & Distribution](01.png)
 
 ### 2. Actual vs. Predicted Performance Fit
 ![Actual vs Predicted](figures/fig3_actual_vs_predicted.png)
